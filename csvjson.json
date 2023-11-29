@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "parentId": "",
+    "fullName": "Ian Devling",
+    "role": "EM",
+    "emDisciplineName": "Engineering Management",
+    "avatarUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
+    "attributes": {
+      "attribute name": "attribute Value",
+      "country": "Ukraine",
+      "location": "Kharkiv",
+      "discipline": "test"
+    }
+  },
+  {
+    "id": "2",
+    "parentId": "1",
+    "fullName": "Davolio Nancy",
+    "role": "SSL",
+    "emDisciplineName": "Mobile",
+    "avatarUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg\\t",
+    "attributes": {
+      "attribute name": "attribute Value",
+      "country": "Test",
+      "location": "Lviv",
+      "discipline": "test"
+    }
+  },
+  {
+    "id": "3",
+    "parentId": "1",
+    "fullName": "Leverling Janet",
+    "role": "SSL",
+    "emDisciplineName": "Mobile",
+    "avatarUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
+    "attributes": {
+      "attribute name": "attribute Value",
+      "country": "Test",
+      "location": "test",
+      "discipline": "test"
+    }
+  },
+  {
+    "id": "4",
+    "parentId": "2",
+    "fullName": "Le Jan",
+    "role": "SL",
+    "emDisciplineName": "Mobile",
+    "avatarUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+    "attributes": {
+      "attribute name": "attribute Value",
+      "country": "Test",
+      "location": "test",
+      "discipline": "test"
+    }
+  }
+]
